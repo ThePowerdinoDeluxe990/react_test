@@ -1,0 +1,46 @@
+body{
+  margin:0;
+  background: #222;
+  font-family:system-ui;
+  display:grid;
+  place-content:center;
+  min-height:100hv;
+}
+strong{
+  color:white;
+  font-size:24px;
+}
+span{
+  
+  text-decoration: underline;
+  color:red;
+}
+span:hover{
+  color:rgb(255, 60, 0);
+}
+.nombre{
+  color:white;
+  text-align:center;
+  background-color:black;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+  min-width: 100px;
+  min-height: 50px;
+  max-width: 100px;
+  min-height:50px;
+ background-color: black;
+ color:white;
+  border-radius: 10px;
+  border-color:aqua;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:20px;
+  
+}
+button:hover{
+  background-color:rgb(59, 57, 57);
+}
+.but{
+  text-align:center;
+ 
+}
